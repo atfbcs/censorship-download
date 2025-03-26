@@ -5,7 +5,7 @@ This repository exists **solely** to host the official installer for the Censors
 ## 📥 Download
 
 Latest stable release (v1.0.0):  
-[1.0.0](https://github.com/atfbcs/censorship-download/releases/download/1.0.0/Censorship-Setup-1.0.0.exe)
+[1.0.1](https://github.com/atfbcs/censorship-download/releases/download/1.0.1/Censorship-Setup-1.0.0.exe))
 
 ---
 
